@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Saúl Zárate 👋
 
-<!--
-**Zarate73/Zarate73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Matemático por la **Escuela Superior de Física y Matemáticas (ESFM - IPN)**.  
+Mi trabajo se centra en **modelado predictivo**, **simulaciones Monte Carlo** y **ciencia de datos aplicada**, especialmente en contextos electorales y de análisis cuantitativo.
 
-Here are some ideas to get you started:
+#### 🔭 Actualmente trabajando en
+- Modelos de forecasting electoral (primarias y gobernaturas)
+- Simulaciones Bayesianas / Dirichlet-multinomial con calibración de encuestas
+- Pipelines de datos y auditoría de calidad para análisis político
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Stack principal
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `Jupyter` · `Monte Carlo` · `Excel avanzado`
+
+#### 📌 Proyectos destacados
+- [wisconsin-2026-primary-forecast](https://github.com/Zarate73/wisconsin-2026-primary-forecast) → Modelo dual Monte Carlo + post-mortem
+- [arizona-primary-forecast](https://github.com/Zarate73/arizona-primary-forecast) → Pipeline de producción + auditoría de encuestas
+
+#### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN) · [Email](mailto:tu@email.com)
