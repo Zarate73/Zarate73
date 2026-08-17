@@ -1,19 +1,20 @@
-### Hola, soy Saúl Zárate 👋
+# Saúl Zárate Feliciano
 
-Ingeniero Matemático por la **Escuela Superior de Física y Matemáticas (ESFM - IPN)**.  
-Mi trabajo se centra en **modelado predictivo**, **simulaciones Monte Carlo** y **ciencia de datos aplicada**, especialmente en contextos electorales y de análisis cuantitativo.
+Ingeniero Matemático por la Escuela Superior de Física y Matemáticas (ESFM - IPN).
 
-#### 🔭 Actualmente trabajando en
-- Modelos de forecasting electoral (primarias y gobernaturas)
-- Simulaciones Bayesianas / Dirichlet-multinomial con calibración de encuestas
-- Pipelines de datos y auditoría de calidad para análisis político
+Trabajo principalmente en modelado predictivo, simulaciones Monte Carlo y ciencia de datos aplicada. Mi experiencia se centra en el desarrollo de modelos de forecasting electoral, calibración de encuestas y análisis cuantitativo.
 
-#### 🛠️ Stack principal
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `Jupyter` · `Monte Carlo` · `Excel avanzado`
+### Enfoque actual
+- Modelos de simulación para primarias y elecciones (Monte Carlo, Dirichlet-multinomial)
+- Pipelines de datos y auditoría de calidad
+- Análisis predictivo aplicado a contextos políticos y electorales
 
-#### 📌 Proyectos destacados
-- [wisconsin-2026-primary-forecast](https://github.com/Zarate73/wisconsin-2026-primary-forecast) → Modelo dual Monte Carlo + post-mortem
-- [arizona-primary-forecast](https://github.com/Zarate73/arizona-primary-forecast) → Pipeline de producción + auditoría de encuestas
+### Stack
+Python, pandas, NumPy, scikit-learn, Jupyter, Excel avanzado
 
-#### 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN) · [Email](mailto:tu@email.com)
+### Proyectos
+- [wisconsin-2026-primary-forecast](https://github.com/Zarate73/wisconsin-2026-primary-forecast) — Modelo dual de pronóstico con post-mortem
+- [arizona-primary-forecast](https://github.com/Zarate73/arizona-primary-forecast) — Pipeline de forecasting con auditoría de encuestas
+
+### Contacto
+Email: [zarate.feliciano.saul.v4@gmail.com]
