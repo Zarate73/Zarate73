@@ -2,22 +2,23 @@
 
 Ingeniero Matemático por la Escuela Superior de Física y Matemáticas (ESFM - IPN).
 
-Trabajo en modelado predictivo, simulaciones Monte Carlo y pipelines de datos. Me enfoco en construir modelos probabilísticos, validarlos contra resultados reales y documentar sus limitaciones con rigor.
+Trabajo en modelado predictivo, pipelines de datos y automatización. Me enfoco en construir flujos reproducibles, validar modelos contra resultados reales y documentar sus limitaciones con rigor.
 
 ### Enfoque
-- Simulación Monte Carlo y modelos probabilísticos
-- Construcción de pipelines de datos con auditoría de calidad
-- Validación posterior de modelos y análisis de errores
+- Pipelines de extracción, limpieza y validación de datos
+- Modelado predictivo y simulación Monte Carlo
+- Evaluación fuera de muestra y análisis de errores
 - Integración de múltiples fuentes de información
 
 ### Stack
-Python · pandas · NumPy · scikit-learn · Jupyter · openpyxl · Selenium
+Python · pandas · NumPy · scikit-learn · Selenium · Jupyter · SQL · Power BI
 
 ### Proyectos
-- [dc2026-rcv-forecast](https://github.com/Zarate73/dc2026-rcv-forecast) — Simulador Monte Carlo multi-fuente con motor propio y retrospectiva post-resultado
+- [propiedades-cdmx](https://github.com/Zarate73/propiedades-cdmx) — Scraper + análisis de precios inmobiliarios en CDMX (EDA, Random Forest, clustering)
 - [arizona-primary-forecast](https://github.com/Zarate73/arizona-primary-forecast) — Pipeline de forecasting con código de producción y auditoría de datos
-- [wisconsin-2026-primary-forecast](https://github.com/Zarate73/wisconsin-2026-primary-forecast) — Modelo dual probabilístico con post-mortem de errores
-- [licitaciones-slp-prediccion](https://github.com/Zarate73/licitaciones-slp-prediccion) — Detección de patrones recurrentes y predicción de eventos en datos públicos
+- [dc2026-rcv-forecast](https://github.com/Zarate73/dc2026-rcv-forecast) — Simulador Monte Carlo multi-fuente con retrospectiva post-resultado
+- [licitaciones-slp-prediccion](https://github.com/Zarate73/licitaciones-slp-prediccion) — Detección de patrones y predicción de eventos en datos públicos
+- [wisconsin-2026-primary-forecast](https://github.com/Zarate73/wisconsin-2026-primary-forecast) — Modelo probabilístico dual con post-mortem de errores
 
 ### Contacto
 Email: zarate.feliciano.saul.v4@gmail.com
